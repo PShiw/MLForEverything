@@ -87,7 +87,7 @@ uv pip install package-name
 uv pip install -r requirements.txt
 
 # Install in a virtual environment
-uv venv
+uv venv --python 3.12 
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 uv pip install package-name
 ```
@@ -100,7 +100,7 @@ uv pip install package-name
 
 First, create a virtual environment using UV:
 ```bash
-uv venv
+uv venv --python 3.12
 ```
 
 This creates a `.venv` directory in your project.
