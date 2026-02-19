@@ -1,0 +1,15 @@
+
+Artificial Intelligence Overview
+
+Artificial Intelligence (AI) refers to computer systems that can perform tasks 
+that typically require human intelligence. These tasks include visual perception, 
+speech recognition, decision-making, and language translation.
+
+Key Areas of AI:
+1. Machine Learning - Systems that learn from data
+2. Natural Language Processing - Understanding human language
+3. Computer Vision - Interpreting visual information
+4. Robotics - Intelligent physical systems
+
+AI is transforming industries including healthcare, finance, transportation, 
+and entertainment.

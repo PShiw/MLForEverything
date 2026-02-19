@@ -21,3 +21,25 @@ altair
 
 # For data import 
 yfinance
+
+# RAG System Requirements
+chromadb                    # Vector database
+sentence-transformers       # Text embeddings
+langchain                   # RAG framework
+langchain-community         # Community integrations
+PyPDF2                      # PDF processing
+python-docx                 # Word document processing
+openpyxl                    # Excel processing
+beautifulsoup4              # HTML parsing
+lxml                        # XML parsing
+faiss-cpu                   # Alternative vector store
+tiktoken                    # Token counting
+huggingface-hub            # Model hub access
+transformers               # Transformer models
+peft                        # Fine-tuning (LoRA/QLoRA)
+accelerate                  # Training acceleration
+datasets                    # Dataset management
+bitsandbytes               # Quantization
+trl                         # Transformer RL for fine-tuning
+tqdm                        # Progress bars
+python-dotenv              # Environment variables

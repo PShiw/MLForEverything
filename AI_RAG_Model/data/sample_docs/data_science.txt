@@ -1,0 +1,16 @@
+
+Data Science Essentials
+
+Data science combines statistics, mathematics, programming, and domain 
+expertise to extract insights from data.
+
+Core Skills:
+- Statistical analysis and hypothesis testing
+- Programming (Python, R)
+- Data visualization
+- Machine learning
+- Database management
+- Communication skills
+
+Popular tools include Python, Jupyter notebooks, Pandas, NumPy, Scikit-learn, 
+and visualization libraries like Matplotlib and Seaborn.

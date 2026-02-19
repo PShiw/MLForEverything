@@ -1,0 +1,13 @@
+
+Machine Learning Fundamentals
+
+Machine learning is a subset of AI that focuses on developing algorithms 
+that enable computers to learn from and make predictions based on data.
+
+Types of Machine Learning:
+1. Supervised Learning - Learning from labeled data
+2. Unsupervised Learning - Finding patterns in unlabeled data
+3. Reinforcement Learning - Learning through trial and error
+
+Common algorithms include linear regression, decision trees, neural networks, 
+and support vector machines.
